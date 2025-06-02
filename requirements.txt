@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+langchain-google-genai
+langchain_huggingface
+fastapi
+uvicorn
+pydantic
+python-dotenv
