@@ -1,4 +1,5 @@
 langchain
+langgraph==0.3.2
 langchain-openai
 langchain-groq
 langchain-core
